@@ -1,4 +1,4 @@
-# ⛅ Welcome to my Analyses & PYTHON_&_API_TESTING! ⛅
+# ⛅ Welcome to my ANALYSES & PYTHON_&_API_TESTING! ⛅
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
