@@ -4,6 +4,7 @@
 It was the best practice and introduction to data analysis for me. We covered all the tools needed for data analysis in this course.
 Here are the Analyses I worked on:<br>
 - [Covid data analyses](https://github.com/JacobBersheba89/Data_Analyst_Course/tree/main/Aaa%20___final_project____)
+- I am currently working on analyzing family data and creating dynamic visualizations. Is not ready.
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
