@@ -7,7 +7,7 @@ Here are the Analyses I worked on:<br>
 - I am currently working on analyzing family data and creating dynamic visualizations. Is not ready. but I'm on the right track
 - I would also like to elaborate on the data analysis regarding the war in Ukraine.
 - I also discovered an interesting dataset on nutritional issues.
-- And then there is the PokemonGo app/game which provides a huge amount of data and will be a big challenge
+- And then there is the PokemonGo app/game which provides a huge amount of data and will be a big challenge.
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
