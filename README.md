@@ -2,6 +2,7 @@
 
 ## First of all is my work in data_analyse course.. ## 
 It was the best practice and introduction to data analysis for me. We covered all the tools needed for data analysis in this course.
+Here are the Analyses I worked on:
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
