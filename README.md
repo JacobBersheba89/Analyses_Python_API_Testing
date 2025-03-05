@@ -5,6 +5,9 @@ It was the best practice and introduction to data analysis for me. We covered al
 Here are the Analyses I worked on:<br>
 - [Covid data analyses](https://github.com/JacobBersheba89/Data_Analyst_Course/tree/main/Aaa%20___final_project____)
 - I am currently working on analyzing family data and creating dynamic visualizations. Is not ready. but I'm on the right track
+- I would also like to elaborate on the data analysis regarding the war in Ukraine.
+- I also discovered an interesting dataset on nutritional issues.
+- 
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
