@@ -1,4 +1,4 @@
-# ⛅ Welcome to my ANALYSES & PYTHON_&_API_TESTING! ⛅
+# ⛅ ANALYSES & PYTHON_&_API_TESTING! ⛅
 
 ## First of all is my work in data_analyse course.. ## 
 It was the best practice and introduction to data analysis for me. We covered all the tools needed for data analysis in this course.
