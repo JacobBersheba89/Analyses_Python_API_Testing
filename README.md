@@ -1,6 +1,7 @@
 # ⛅ Welcome to my ANALYSES & PYTHON_&_API_TESTING! ⛅
 
-## First of all is my work in dataanalyse course.. It was the best practice and introduction to data analysis for me.
+## First of all is my work in data_analyse course.. ## 
+It was the best practice and introduction to data analysis for me.
 
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
