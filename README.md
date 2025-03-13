@@ -9,6 +9,9 @@ Here are the Analyses I worked on:<br>
 - I also discovered an interesting dataset on nutritional issues.
 - And then there is the PokemonGo app/game which provides a huge amount of data and will be a big challenge.
 
+## Analyse of family ##
+I'm currently working on an analysis of my own family.. there are quite a few of us..
+
 ## Im tring to do everything arounf PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
 
