@@ -12,7 +12,7 @@ Here are the Analyses I worked on:<br>
 ## Analyse of family ##
 I'm currently working on an analysis of my own family.. there are quite a few of us..
 
-## Im tring to do everything arounf PYTHON.. ##
+## Im tring to do everything around PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
 
 ## API weather 💡 ##
