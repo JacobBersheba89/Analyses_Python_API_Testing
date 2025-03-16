@@ -10,7 +10,8 @@ Here are the Analyses I worked on:<br>
 - And then there is the PokemonGo app/game which provides a huge amount of data and will be a big challenge.
 
 ## Analyse of family ##
-I'm currently working on an analysis of my own family.. there are quite a few of us..
+- I'm currently working on an analysis of my own family.. there are quite a few of us..
+- I was essentially preparing two analyses that came from one Excel file. I collected data from the family and used the DASH library to display two independent visualizations.
 
 ## Im tring to do everything around PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
