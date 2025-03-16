@@ -7,5 +7,5 @@ random display of individual points, the data source is a simple excel file, but
 
 I hope I will early continue.. 
 
-
+a whole bunch of interesting tools in dash.. just choose them and master them.. :D
 I will continue this week.. ;-)
