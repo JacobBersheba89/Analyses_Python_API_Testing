@@ -8,4 +8,4 @@ random display of individual points, the data source is a simple excel file, but
 I hope I will early continue.. 
 
 
-I will continue this week.. ;-)
+I will continue this week.. ;-).
