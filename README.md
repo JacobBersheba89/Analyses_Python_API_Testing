@@ -12,6 +12,7 @@ Here are the Analyses I worked on:<br>
 ## Analyse of family ##
 - I'm currently working on an analysis of my own family.. there are quite a few of us..
 - I was essentially preparing two analyses that came from one Excel file. I collected data from the family and used the [DASH library](https://dash.plotly.com/) to display two independent visualizations.
+- I was interested in the datadog website.. which uses, among other things, the dash library from python for its visualizations. There are some visualizations there that I would really like to try out.
 
 ## Im tring to do everything around PYTHON.. ##
 I think python is future.. fast, awesome variable, usefull, combinable etc... 
