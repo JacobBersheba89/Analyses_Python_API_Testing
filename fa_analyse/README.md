@@ -6,3 +6,6 @@ random display of individual points, the data source is a simple excel file, but
 ![Vizualizace](https://github.com/JacobBersheba89/Analyses_Python_API_Testing/blob/main/fa_analyse/2.png)
 
 I hope I will early continue.. 
+
+
+I will continue this week.. ;-)
