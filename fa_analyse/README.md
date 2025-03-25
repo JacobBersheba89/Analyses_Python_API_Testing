@@ -10,4 +10,4 @@ I hope I will early continue..
 a whole bunch of interesting tools in dash.. just choose them and master them.. :D
 I will continue this week i hope.. ;-)
 
-I think.. no one will read this code.. so doesn´t metter.. 
+I think.. no one will read this code.. so doesn´t metter.. today continue.. what do you think :)
